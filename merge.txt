@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 this is some content to mess with
-content to append
+content to append (master)
+=======
+totally different content to merge later
+>>>>>>> branch_to_merge
